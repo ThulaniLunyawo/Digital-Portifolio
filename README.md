@@ -25,7 +25,7 @@
 ### Evidence  
 - Screenshot or notes from interview preparation session  
 - Example of answers developed using the STAR technique  
-- [View evidence](https://github.com/ThulaniLunyawo/Digital-Portifolio/blob/e27f6dd9836ca1e7026b33ee3f496840d8e74fa5/Interview%20Skills.png)
+- [View evidence](https://github.com/ThulaniLunyawo/Digital-Portifolio/blob/b9f5b09b65bd1115d3940b4bea1241d7b3e1d205/Interview%20Skills.png)
 
 ### Reflection (STAR)  
 **S:** I attended an interview skills workshop as part of the work readiness program.  
