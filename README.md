@@ -10,7 +10,7 @@
 ### Evidence  
 - Screenshot of Business Communication activity from Blackboard  
 - Example of written professional email or report completed during training  
-- [View evidence](https://github.com/ThulaniLunyawo/Digital-Portfolio/blob/main/BUSINESS%20COMMUNICATION.png)
+- [View evidence](Business Communication.png)
 
 ### Reflection (STAR)  
 **S:** I participated in a business communication exercise focused on email and report writing.  
