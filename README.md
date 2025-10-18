@@ -39,7 +39,7 @@
 
 ### Evidence  
 - Screenshot or feedback from mock interview session  
-- [View evidence](https://github.com/ThulaniLunyawo/Digital-Portfolio/blob/main/MOCK%20INTERVIEW.png)
+- [View evidence](https://github.com/ThulaniLunyawo/Digital-Portifolio/blob/3744eac6f32b59339b068ecd242e3db652aa42b6/Thulani_Lunyawo_MockVideo.mp4)
 
 ### Reflection (STAR)  
 **S:** I participated in a mock interview with my lecturer simulating a real employer.  
