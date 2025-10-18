@@ -54,7 +54,7 @@
 ### Evidence  
 - Screenshot of LinkedIn profile or professional network activity  
 - Summary of people or companies I connected with  
-- [View evidence](https://github.com/ThulaniLunyawo/Digital-Portfolio/blob/main/PROFESSIONAL%20NETWORKING.png)
+- [View evidence](https://github.com/ThulaniLunyawo/Digital-Portifolio/blob/f6d26c43ea57231a241db11e7b14592955c1bd7c/Professional%20Networking.png)
 
 ### Reflection (STAR)  
 **S:** I created and updated my LinkedIn profile to connect with professionals in the IT industry.  
