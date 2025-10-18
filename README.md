@@ -68,7 +68,7 @@
 
 ### Evidence  
 - Screenshot of Workplace Etiquette training or activity  
-- [View evidence](https://github.com/ThulaniLunyawo/Digital-Portfolio/blob/main/WORKPLACE%20ETIQUETTE.png)
+- [View evidence](https://github.com/ThulaniLunyawo/Digital-Portifolio/blob/9214cb7b5e304debbfd9af88460b6b4ced004782/Workplace%20Etiquette.png)
 
 ### Reflection (STAR)  
 **S:** I completed a workplace etiquette training module to understand professional behavior.  
