@@ -23,7 +23,7 @@
 ## Interview Skills  
 
 ### Evidence  
-- Screenshot or notes from interview preparation session  
+- Screenshot from interview preparation session  
 - Example of answers developed using the STAR technique  
 - [View evidence](https://github.com/ThulaniLunyawo/Digital-Portifolio/blob/b9f5b09b65bd1115d3940b4bea1241d7b3e1d205/Interview%20Skills.png)
 
@@ -52,7 +52,7 @@
 ## Professional Networking  
 
 ### Evidence  
-- Screenshot of LinkedIn profile or professional network activity  
+- Screenshot of professional network activity  
 - Summary of people or companies I connected with  
 - [View evidence](https://github.com/ThulaniLunyawo/Digital-Portifolio/blob/f6d26c43ea57231a241db11e7b14592955c1bd7c/Professional%20Networking.png)
 
@@ -67,7 +67,7 @@
 ## Workplace Etiquette  
 
 ### Evidence  
-- Screenshot of Workplace Etiquette training or activity  
+- Screenshot of Workplace Etiquette training  activity  
 - [View evidence](https://github.com/ThulaniLunyawo/Digital-Portifolio/blob/9214cb7b5e304debbfd9af88460b6b4ced004782/Workplace%20Etiquette.png)
 
 ### Reflection (STAR)  
